@@ -1,6 +1,6 @@
 # Configuracion para proyecto con React.js
 
-Pasos:
+Dependencias:
 ```
   npm install eslint --save-dev
   npx eslint --init
