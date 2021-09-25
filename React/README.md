@@ -9,4 +9,4 @@ Pasos:
   npm install eslint-plugin-react-hooks --save-dev
 ```
 
-  Copiar el archivo eslintrc.js
+  Copiar el archivo eslintrc.js a la raiz del proyecto
